@@ -25,7 +25,7 @@ SECRET_KEY = '_3!6=0i)02zhd@lgi-*#zjuk6v4tomtb0dz#r#$s!usy^4%a41'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['wish-birthdays.herokuapp.com',
+ALLOWED_HOSTS = ['a2zsample.herokuapp.com',
 '127.0.0.1']
 
 
